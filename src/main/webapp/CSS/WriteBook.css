@@ -1,0 +1,41 @@
+#member_table, #WriteReplyBox, #reply{
+    border: 5px solid black;
+    padding: 10px;
+}
+#WriteReplyBox {
+    margin-top: 20px;
+}
+
+#member_table th{
+    color: white;
+    background-color: black;
+}
+
+#member_table th,td {
+    border: 3px solid black;
+    font-weight: bold;
+}
+
+input[type="text"] {
+   width: 600px;
+}
+
+#content {
+    height : 600px;
+}
+
+#ReplyContent {
+    width: 650px;
+    height : 300px;
+}
+#reply td {
+    width: 600px;
+}
+
+#reply_box {
+    width: 700px;
+}
+
+#WriteReplyBox {
+    border: 3px solid black;
+}
